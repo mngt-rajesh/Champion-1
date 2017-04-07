@@ -10,7 +10,9 @@
 <h4>This is a Heading</h4>
 <h5>This is a Heading</h5>
 <p>This is a paragraph.</p>
-<p><b>This is a bold letters paragraph.</b></p>
-<p><font color='red'>This is a paragraph is in red color</font></p>
+<p><b>This is a bold letters paragraph.</b>
+<a href="https://www.w3schools.com" >This is a link</a></p>
+<p><font color='red'>This is a paragraph is in red color
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"></font></p>
 </body>
 </html>
