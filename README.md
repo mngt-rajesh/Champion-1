@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>HTML Page Title</title>
+<meta charset="UTF-8">
 </head>
 <body>
 <h1>This is a Heading</h1>
