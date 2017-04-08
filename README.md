@@ -14,7 +14,7 @@
 <a href="https://www.w3schools.com" >This is a link</a></p>
 <p><font color='red'>This is a paragraph is in red color
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"></font></p>
-<p title="I'm a tooltip">
+<p title="Mouse Over Effer on Paragraph">
 Mouse over this paragraph, to display the title attribute as a tooltip.
 </p>
 </body>
