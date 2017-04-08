@@ -17,5 +17,6 @@
 <p title="Mouse Over Effer on Paragraph">
 Mouse over this paragraph, to display the title attribute as a tooltip.
 </p>
+<img src="w3schools.jpg" width="150" height="242">
 </body>
 </html>
